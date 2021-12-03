@@ -12,7 +12,7 @@ Pour le test j'ai utilisé :
 
 2- copier les répertoires app et public dans  le racine de votre  CodeIgniter 4
 
-3- ajouter la librairie 
+3- ajouter la librairie dompdf
 
 en exécuter la commande ci-dessous :
 
