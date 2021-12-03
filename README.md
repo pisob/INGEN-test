@@ -14,15 +14,15 @@ Pour le test j'ai utilisé :
 
 3- ajouter la librairie 
     en exécuter la commande ci-dessous :
-        composer require dompdf/dompdf
+            composer require dompdf/dompdf
         
 4- création de table etudiant
    4-a) créer la class du migration avec la commande :
-         php spark migrate:create etudiants
+            php spark migrate:create etudiants
    4-b) créer la table etudiant avec la commande ci-dessous :
-          php spark migrate
+             php spark migrate
           
 5- Maintenant aller dans votre site de test
 
   ex :  https://ingtest.ekawoa.com/public/etudiants
-        n'oublier pas le mot etudiants à la fin du  votre url public
+          n'oublier pas le mot etudiants à la fin du  votre url public
