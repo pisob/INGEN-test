@@ -22,7 +22,7 @@ composer require dompdf/dompdf
 
 4-a) créer la class du migration avec la commande :
 
- php spark migrate:create etudiants
+ php spark migrate:create etudiant
  
 4-b) créer la table etudiant avec la commande ci-dessous :
 
